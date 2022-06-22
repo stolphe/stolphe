@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Stolphe</h1>
 
-<!--
-**stolphe/stolphe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I am a beginner front-end developer based in Russia. I can write in HTML and CSS. Free software enthusiast. I know Russian (native), Serbian (very little), English (in the process of learning) and Kazakh (national).
+Read on and find out all about me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+![html](https://img.shields.io/badge/-HTML-323232?style=for-the-badge&logo=html5&logoColor=fff)
+![css](https://img.shields.io/badge/-css-darkgray?style=for-the-badge&logo=css3&logoColor=000)
+![js](https://img.shields.io/badge/-javascript-323232?style=for-the-badge&logo=javascript&logoColor=fff)
+
+## Projects
+
+No yet :)
+
+## Links
+
+**[My VK (Russian)](https://vk.com/vixcert)**
+
+**[Telegram (Russian)](https://t.me/stolphblog)**
+
+<!--https://img.shields.io/badge/-<MESSAGE>-<COLOR>-->

@@ -1,4 +1,4 @@
-<h1 align="center">Stolphe</h1>
+<h1 align="center">👨‍💻 Stolphe</h1>
 
 ## About me
 

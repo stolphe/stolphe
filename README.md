@@ -21,4 +21,6 @@ No yet :)
 
 **[Telegram (Russian)](https://t.me/stolphblog)**
 
+**[Habr (Russian)](https://habr.com/ru/users/dvakatri/)**
+
 <!--https://img.shields.io/badge/-<MESSAGE>-<COLOR>-->

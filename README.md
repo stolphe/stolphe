@@ -1,4 +1,6 @@
-![Header](/src/img/elsword-anime-tyan.jpg)
+<div align="center">
+<img src="https://github.com/stolphe/stolphe/blob/main/src/img/elsword-anime-tyan.jpg?raw=true" alt="headers" />
+</div>
 
 ***
 

@@ -26,3 +26,5 @@ I am a beginner front-end developer based in Russia. I can write in HTML and CSS
 **[Habr](https://habr.com/ru/users/dvakatri)**
 
 **[Tumblr Blog](https://stolphe.tumblr.com)**
+
+**[Buy me a coffee](https://www.buymeacoffee.com/stolphe)**

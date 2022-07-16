@@ -1,6 +1,8 @@
-# Ruslan 'stolphe' Pushkin
+<h1 align="center">Ruslan 'stolphe' Pushkin</h1>
 
-![header](/src/1211049.png)
+<div align="center">
+<img src="https://github.com/stolphe/stolphe/raw/main/src/1211049.png">
+</div>
 
 ## About me
 

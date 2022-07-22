@@ -9,3 +9,7 @@
 ❯ 📬 Email             dvakatri@gmail.com
 ❯ 🐦 Twitter           @RuslanStolphe
 ```
+
+<h2>Stats</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolphe&layout=compact)](https://github.com/stolphe)

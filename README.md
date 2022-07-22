@@ -1,9 +1,11 @@
-# Ruslan 'stolphe' Pushkin
+<h1 align="center">Ruslan 'stolphe' Pushkin</h1>
 
-![header](/src/1211049.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/stolphe/stolphe/main/src/1211049.png" alt="">
+</div>
 
 ```sh
 ❯ 🏡 Website           stolphe.tk
 ❯ 📬 Email             dvakatri@gmail.com
-❯ 🐦 Telegram          @only_pivo
+❯ 🐦 Twitter           @RuslanStolphe
 ```
